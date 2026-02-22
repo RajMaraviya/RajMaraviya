@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer with over 2.5 years of experience dedicated to crafting polished, high-performance web applications. My expertise lies in the MERN stack, where I bridge the gap between complex backend logic and intuitive, responsive user interfaces.
+I am a Frontend Developer with over 3+ years of experience dedicated to crafting polished, high-performance web applications. My expertise lies in the MERN stack, where I bridge the gap between complex backend logic and intuitive, responsive user interfaces.
 
 I thrive on turning ideas into functional code, whether it’s building scalable admin panels for professional photographers or optimizing state management in real-time applications. My approach to development centers on writing clean, maintainable code and staying ahead of the curve with modern styling and architectural patterns.
 
